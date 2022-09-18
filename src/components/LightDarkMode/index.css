@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  height: 35px;
+  border-radius: 5px;
+}
+.Light {
+  color: white;
+  background-color: black;
+}
+.Dark {
+  color: black;
+  background-color: white;
+}
